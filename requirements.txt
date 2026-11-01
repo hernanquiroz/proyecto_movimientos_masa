@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
-pycaret
-streamlit
-streamlit-folium
-folium
-openpyxl
 scikit-learn
+folium
+streamlit-folium
+openpyxl
+
