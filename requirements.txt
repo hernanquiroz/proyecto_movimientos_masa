@@ -1,0 +1,8 @@
+pandas
+numpy
+pycaret
+streamlit
+streamlit-folium
+folium
+openpyxl
+scikit-learn
